@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body style="text-align:center; background:#222; color:white;">
+
+    <h1>Welcome to My Portfolio</h1>
+    <h2>Om Deshmukh</h2>
+
+    <p>I am a College Student.</p>
+
+    <h3>My Skills</h3>
+    <p>HTML | CSS | JavaScript</p>
+
+    <h3>About Me</h3>
+    <p>I love learning new technologies.</p>
+
+    <h3>Contact</h3>
+    <p>Email: om@gmail.com</p>
+
+</body>
+</html>
